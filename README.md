@@ -15,11 +15,16 @@ Follow-up Question Suggestions
 Short-term Context Awareness
 
 **Technologies Used**
-Language: Python 3.x
-Backend: FastAPI
-Vector Search: FAISS
-Frontend: HTML, CSS, JavaScript / React
-Data Handling: JSON / CSV
+
+**Language:** Python 3.11.0
+
+**Backend:** FastAPI
+
+**Vector Search:** FAISS
+
+**Frontend:** HTML, CSS, JavaScript / React
+
+**Data Handling:** CSV
 
 **Setup Instructions**
 
